@@ -45,7 +45,7 @@ Ce projet propose une analyse territoriale du département des Landes (40), à t
 | `*.xlsx`                        | Données sources utilisées pour l’analyse |
 
 ## 🖥 Aperçu du rapport
-![Alt text](images/image.png)
+![Aperçu de la page Santé](capt_education_Landes.png)
 
 ## 🔧 Améliorations possibles
 - Utilisation de données actualisées / ouvertes en ligne via API.
