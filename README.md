@@ -8,10 +8,10 @@ Ce projet propose une analyse territoriale du département des Landes (40), à t
 - Déterminer les besoins potentiels d’implantation de CFA selon la population 18–24 ans.
 
 ## 📌 Données utilisées
+- Liste des équipements géolocalisés pour le département (commerce, santé, sport...) $\large{→}$ $\textit{BPE_Departement_landes.xlsx}$
+- Référentiel des gammes d'équipements $\large{→}$ $\textit{BPE_gammes_equipements.xlsx}$
 - Population par commune et par tranche d’âge (source INSEE) $\large{→}$ $\textit{Population_landes_corrige.xlsx}$
-- Répertoire des équipements publics et privés (BPE) : CFA, établissements médicaux $\large{→}$ $\textit{BPE_Departement_landes.xlsx}$
-- Localisation géographique des médecins généralistes $\large{→}$ $\textit{Geoloc_medecins_landes.xlsx}$
-- Fichier géographique des communes (coordonnées) $\large{→}$ $\textit{Communes_Landes_Coordonnees.xlsx}$
+- Fichier géographique des communes (coordonnées) $\large{→}$ $\textit{REF_GEO.xlsx}$
 
 ## 🛠 Méthodologie
 - Préparation des données dans Power BI : nettoyage, jointures, enrichissement.
