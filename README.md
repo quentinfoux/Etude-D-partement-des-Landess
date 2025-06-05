@@ -9,7 +9,7 @@ Ce projet propose une analyse territoriale du département des Landes (40), à t
 
 ## 📌 Données utilisées
 - Liste des équipements géolocalisés pour le département (commerce, santé, sport...) $\large{→}$ $\textit{BPE_Departement_landes.xlsx}$
-- Référentiel des gammes d'équipements $\large{→}$ $\textit{BPE_gammes_equipements.xlsx}$
+- Référentiel des gammes d'équipements $\large{→}$ $\textit{BPE_gammes_equipements_2023.xlsx}$
 - Population par commune et par tranche d’âge (source INSEE) $\large{→}$ $\textit{Population_landes_corrige.xlsx}$
 - Fichier géographique des communes (coordonnées) $\large{→}$ $\textit{REF_GEO.xlsx}$
 
